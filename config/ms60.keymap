@@ -16,7 +16,7 @@
 
        TILDE_ESC {
            bindings = <&kp TILDE>;
-           key-positions = <43 0>;
+           key-positions = <42 0>;
            };
     };
     keymap {
